@@ -17,7 +17,7 @@ export function SiteFooter() {
       className="object-contain"
     />
   </div>
-  <span className="text-xl font-serif font-bold tracking-wide">AstroBudhha</span>
+  <span className="text-xl font-serif font-bold tracking-wide">AstroBodha</span>
 </Link>
 
             <p className="text-muted-foreground max-w-sm">
@@ -81,7 +81,7 @@ export function SiteFooter() {
 
         <div className="pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} AstroBudhha. All rights reserved.
+            © {new Date().getFullYear()} AstroBodha. All rights reserved.
           </p>
           <div className="flex gap-4">
             {[Facebook, Twitter, Instagram, Linkedin].map((Icon, i) => (

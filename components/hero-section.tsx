@@ -68,7 +68,7 @@ export function HeroSection() {
           </h1>
 
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto lg:mx-0 leading-relaxed">
-            Unlock the secrets of the cosmos with AstroBudhha. We blend ancient wisdom with modern technology to guide
+            Unlock the secrets of the cosmos with AstroBodha. We blend ancient wisdom with modern technology to guide
             your journey.
           </p>
 <div className="flex flex-col sm:flex-row items-center gap-4 justify-center lg:justify-start pt-4">
@@ -84,7 +84,7 @@ export function HeroSection() {
 
     <DialogContent className="max-w-md">
       <DialogHeader>
-        <DialogTitle>Join the AstroBudhha waitlist</DialogTitle>
+        <DialogTitle>Join the AstroBodha waitlist</DialogTitle>
         <DialogDescription>
           Enter your email to receive early access and updates about our launch.
         </DialogDescription>

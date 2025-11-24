@@ -38,7 +38,7 @@ export function SiteHeader() {
       height={40}
       className="object-contain"/>
   </div>
-  <span className="text-xl font-serif font-bold text-foreground tracking-wide">AstroBudhha</span>
+  <span className="text-xl font-serif font-bold text-foreground tracking-wide">AstroBodha</span>
 </Link>
 
 

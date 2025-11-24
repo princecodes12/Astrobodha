@@ -9,7 +9,7 @@ export function AboutUs() {
             <h2 className="text-3xl md:text-5xl font-serif font-bold">Where wisdom meets technology</h2>
             <div className="space-y-4 text-muted-foreground text-lg leading-relaxed">
               <p>
-                At AstroBudhha, we believe that astrology is not just about prediction—it's about preparation. Our
+                At Astrobodha, we believe that astrology is not just about prediction—it's about preparation. Our
                 vision is to blend the timeless accuracy of Vedic astrology with the seamlessness of modern technology.
               </p>
               <p>
